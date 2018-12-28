@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cae08eb-843f-4202-a543-632ae278d440" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/javaTest$Sort.ic" NAME="Sort Coverage Results" MODIFIED="1536680259303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/javaTest$UIApp.ic" NAME="UIApp Coverage Results" MODIFIED="1545976890193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1010295048">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="59" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="16" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.12" value="6" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="5" />
+          <entry key="project.open.time.16" value="5" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="16" />
+          <entry key="ft" value="46" />
+          <entry key="fxml" value="66" />
+          <entry key="java" value="26989" />
+          <entry key="txt" value="14" />
+          <entry key="xml" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="26989" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="VTL" value="46" />
+          <entry key="XML" value="94" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="Image" value="19" />
+          <entry key="JAVA" value="479" />
+          <entry key="UML" value="11" />
+          <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Being" value="1" />
+          <entry key="Board" value="1" />
+          <entry key="CalabashBrother" value="1" />
+          <entry key="Creature" value="1" />
+          <entry key="DaWa" value="1" />
+          <entry key="JavaScript-modules-diagram/E:/Desktop/javaTest/src/creatureInformation;E:/Desktop/javaTest/src/battleInformation;E:/Desktop/javaTest/src/position;" value="1" />
+          <entry key="JavaScript-modules-diagram/E:/Desktop/javaTest/src/resources" value="2" />
+          <entry key="Sides" value="1" />
+          <entry key="Underlings" value="2" />
+          <entry key="bmp" value="1" />
+          <entry key="class" value="5" />
+          <entry key="fxml" value="12" />
+          <entry key="java" value="479" />
+          <entry key="jpg" value="3" />
+          <entry key="png" value="15" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/SanWa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+              <folding>
+                <element signature="method#SanWa#0;class#SanWa#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#175#0" expanded="true" />
+                <element signature="method#test#0;class#MyTest#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BattleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-82">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logic/battle/JustSide.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="method#updateStatus#0;class#JustSide#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/CalabashBrother.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1767#1768#0" expanded="true" />
+                <element signature="e#1798#1799#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+              <folding>
+                <element signature="n#build#0;n#project#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/controllers/GameModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="172" column="20" lean-forward="true" selection-start-line="172" selection-start-column="20" selection-end-line="172" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getInstance#0;class#GameModel#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/Bullet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="67" column="24" lean-forward="true" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+              <folding>
+                <element signature="method#hit#0;class#Bullet#0" expanded="true" />
+                <element signature="method#toEnd#0;class#Bullet#0" expanded="true" />
+                <element signature="e#4760#4761#0" expanded="true" />
+                <element signature="e#4784#4785#0" expanded="true" />
+                <element signature="e#4809#4810#0" expanded="true" />
+                <element signature="e#4833#4834#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/logic.creatures.Being">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>logic.creatures.Being</OriginalElement>
+              <nodes>
+                <node x="71.49999999999997" y="0.0">java.lang.FunctionalInterface</node>
+                <node x="222.0" y="81.0">logic.creatures.Skill</node>
+                <node x="100.0" y="81.0">java.lang.Runnable</node>
+                <node x="127.5" y="162.0">logic.creatures.Creature</node>
+                <node x="0.0" y="162.0">logic.creatures.Bullet</node>
+                <node x="0.0" y="81.0">logic.creatures.Being</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+                  <point x="-2.8421709430404007E-14" y="-15.5" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="logic.creatures.Bullet" target="java.lang.Runnable">
+                  <point x="20.0" y="-15.5" />
+                  <point x="60.0" y="142.0" />
+                  <point x="125.5" y="142.0" />
+                  <point x="-25.5" y="15.5" />
+                </edge>
+                <edge source="logic.creatures.Creature" target="java.lang.Runnable">
+                  <point x="-1.4210854715202004E-14" y="-15.5" />
+                  <point x="25.49999999999997" y="15.5" />
+                </edge>
+                <edge source="logic.creatures.Creature" target="logic.creatures.Skill">
+                  <point x="32.66666666666664" y="-15.5" />
+                  <point x="209.16666666666663" y="142.0" />
+                  <point x="257.5" y="142.0" />
+                  <point x="0.0" y="15.5" />
+                </edge>
+                <edge source="logic.creatures.Bullet" target="logic.creatures.Being">
+                  <point x="-20.0" y="-15.5" />
+                  <point x="-20.0" y="15.5" />
+                </edge>
+                <edge source="logic.creatures.Creature" target="logic.creatures.Being">
+                  <point x="-32.66666666666667" y="-15.5" />
+                  <point x="143.83333333333331" y="132.0" />
+                  <point x="60.0" y="132.0" />
+                  <point x="20.0" y="15.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-13.5" y="141.0" />
+              <SelectedNodes>
+                <node>logic.creatures.Being</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/Creature.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <folding>
+                <element signature="method#Creature#0;class#Creature#0" expanded="true" />
+                <element signature="method#randomMove#0;class#Creature#0" expanded="true" />
+                <element signature="method#run#0;class#Creature#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>negative</find>
+      <find>elementData</find>
+      <find>nCopies</find>
+      <find>it</find>
+      <find>iterator</find>
+      <find>Iterator</find>
+      <find>listIterator</find>
+      <find>base2</find>
+      <find>print</find>
+      <find>synchronized (this.status)</find>
+      <find>HPchange</find>
+      <find>getBullets()</find>
+      <find>TimeUnit</find>
+      <find>爷爷在画自个</find>
+      <find>synchronized</find>
+      <find>justSide</find>
+      <find>evilSide</find>
+      <find>Thread</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>System.out.println</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Desktop\javaTest\src\logic</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/controllers/BoardController.java" />
+        <option value="$PROJECT_DIR$/src/controllers/GameController.java" />
+        <option value="$PROJECT_DIR$/src/javaTest.java" />
+        <option value="$PROJECT_DIR$/src/logic/battle/Sides.java" />
+        <option value="$PROJECT_DIR$/src/logic/battle/EvilSide.java" />
+        <option value="$PROJECT_DIR$/src/logic/battle/JustSide.java" />
+        <option value="$PROJECT_DIR$/src/logic/creatures/GrandPa.java" />
+        <option value="$PROJECT_DIR$/src/logic/creatures/Monster.java" />
+        <option value="$PROJECT_DIR$/src/logic/creatures/CalabashBrother.java" />
+        <option value="$PROJECT_DIR$/src/logic/battle/Board.java" />
+        <option value="$PROJECT_DIR$/src/logic/position/Position.java" />
+        <option value="$PROJECT_DIR$/src/controllers/GameModel.java" />
+        <option value="$PROJECT_DIR$/src/logic/creatures/Creature.java" />
+        <option value="$PROJECT_DIR$/src/main/java/annotation/Author.java" />
+        <option value="$PROJECT_DIR$/src/main/java/annotation/Description.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/battle/Formation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/battle/Board.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BattleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/board.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/Being.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/Shoot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/util/Pictures.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/SkillKuang.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/GrandPa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/Monster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/ThreadInfo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/CalabashBrother.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/battle/EvilSide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/battle/JustSide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/monster/Underlings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/monster/Scorpion.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/monster/Snake.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/SkillFrame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UIApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/GameController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/DaWa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/ErWa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/SanWa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/LiuWa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/QiWa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/SiWa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/battle/Sides.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/WuWa.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/Bullet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/GameModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/creatures/Creature.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="javaTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="javaTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="116" />
+    <option name="y" value="142" />
+    <option name="width" value="1733" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="6-6-2018">
+        <observation name="false" value="83.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="false" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="7.0" />
+        <observation name="false" value="76.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="false" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="6-6-2018">
+        <observation name="false" value="83.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="false" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="6-6-2018">
+        <observation name="0" value="24.0" />
+        <observation name="UNDEFINED" value="59.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="0" value="4.0" />
+        <observation name="UNDEFINED" value="14.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="16.0" />
+        <observation name="true" value="61.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="9.0" />
+        <observation name="true" value="8.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="25.0" />
+        <observation name="true" value="52.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="15.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="25.0" />
+        <observation name="true" value="52.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="15.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="25.0" />
+        <observation name="true" value="52.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="15.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="68.0" />
+        <observation name="true" value="9.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="11.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="6-6-2018">
+        <observation name="false" value="82.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="false" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="6-6-2018">
+        <observation name="NORMAL" value="77.0" />
+        <observation name="UNDEFINED" value="6.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="NORMAL" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="expected" value="25.0" />
+        <observation name="maybeExpected" value="2.0" />
+        <observation name="normal" value="50.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="expected" value="3.0" />
+        <observation name="maybeExpected" value="1.0" />
+        <observation name="normal" value="14.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="classNameOrGlobalStatic" value="14.0" />
+        <observation name="expectedTypeVariable" value="19.0" />
+        <observation name="normal" value="20.0" />
+        <observation name="variable" value="24.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="classNameOrGlobalStatic" value="3.0" />
+        <observation name="normal" value="13.0" />
+        <observation name="variable" value="2.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="unknown" value="77.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="unknown" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="false" value="12.0" />
+        <observation name="null" value="63.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="false" value="3.0" />
+        <observation name="null" value="14.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="unknown" value="77.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="unknown" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="22.0" />
+        <observation name="normal" value="59.0" />
+        <observation name="recursive" value="2.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="normal" value="8.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="6-6-2018">
+        <observation name="cancelled" value="131.0" />
+        <observation name="explicitSelect" value="14.0" />
+        <observation name="typedSelect" value="69.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="cancelled" value="68.0" />
+        <observation name="explicitSelect" value="11.0" />
+        <observation name="typedSelect" value="7.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="6-6-2018">
+        <observation name="BASIC" value="94.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="BASIC" value="27.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="6-6-2018">
+        <observation name="count" value="214.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="count" value="86.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="0.048485" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.052031" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.114286" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.066762" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="56.0" />
+        <observation name="average" value="-2.320755" />
+        <observation name="count" value="53.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.912122" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="15.0" />
+        <observation name="average" value="-5.0" />
+        <observation name="count" value="5.0" />
+        <observation name="max" value="-5.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="-0.078431" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.050175" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="0.157576" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="5.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.757718" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.228571" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="4.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.489117" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="-1090.436364" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1154.0" />
+        <observation name="variance" value="60643.687491" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="-811.8" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1202.0" />
+        <observation name="variance" value="151038.142059" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="213.071895" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="13057.839662" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="average" value="45.454545" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="6122.091678" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="0.810458" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="3.191891" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="average" value="2.151515" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="7.670637" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="1.359477" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.675287" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="average" value="0.242424" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.270122" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="0.849673" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.548436" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="1.0" />
+        <observation name="average" value="0.242424" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.270122" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="3.866667" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="1.978066" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="4.285714" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="1.978308" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="-0.078431" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.050175" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="-78.339869" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-999.0" />
+        <observation name="variance" value="50059.990786" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="6.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="153.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="6-6-2018">
+        <observation name="UNDEFINED" value="66.0" />
+        <observation name="average" value="-2.757576" />
+        <observation name="count" value="33.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.687724" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="7.0" />
+        <observation name="average" value="-1.095238" />
+        <observation name="count" value="21.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-4.0" />
+        <observation name="variance" value="1.554787" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="121.212121" />
+        <observation name="count" value="165.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="743435.456453" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="1142.685714" />
+        <observation name="count" value="35.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="5129169.028211" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="6-6-2018">
+        <observation name="0" value="10.0" />
+        <observation name="1" value="1.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="1.0" />
+        <observation name="5" value="1.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="0" value="10.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="6-6-2018">
+        <observation name="total" value="7.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="total" value="5.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="6-6-2018">
+        <observation name="0" value="3.0" />
+        <observation name="1" value="4.0" />
+        <observation name="2" value="3.0" />
+        <observation name="3" value="4.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="0" value="5.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="4.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="6-6-2018">
+        <observation name="average" value="325.877551" />
+        <observation name="count" value="98.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="521.586207" />
+        <observation name="count" value="29.0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaTest" type="1abcf292:AndroidViewProjectNode" />
+              <item name="javaTest" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="1abcf292:AndroidViewProjectNode" />
+              <item name="javaTest" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaTest" type="58d84e3e:PackageViewProjectNode" />
+              <item name="javaTest" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+              <item name="creatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546007642703" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Database/实验三" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="creature" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="battleInformation" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\javaTest\src\resources" />
+      <recent name="E:\Desktop\javaTest\src\logic\position" />
+      <recent name="E:\Desktop\javaTest\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.UIApp">
+    <configuration name="BattleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BattleTest" />
+      <module name="javaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Counter" />
+      <module name="javaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UIApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UIApp" />
+      <module name="javaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaxOMatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaxOMatic" />
+      <module name="javaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaTest" />
+      <module name="javaTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaTest-1.0-SNAPSHOT.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/javaTest-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.javaTest" />
+      <item itemvalue="Application.UIApp" />
+      <item itemvalue="Application.BattleTest" />
+      <item itemvalue="Application.WaxOMatic" />
+      <item itemvalue="JAR Application.javaTest-1.0-SNAPSHOT.jar" />
+      <item itemvalue="Application.Counter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UIApp" />
+        <item itemvalue="JAR Application.javaTest-1.0-SNAPSHOT.jar" />
+        <item itemvalue="Application.BattleTest" />
+        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.WaxOMatic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cae08eb-843f-4202-a543-632ae278d440" name="Default" comment="" />
+      <created>1528275889752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528275889752</updated>
+      <workItem from="1528275892829" duration="6367000" />
+      <workItem from="1528424344751" duration="4408000" />
+      <workItem from="1529116728278" duration="658000" />
+      <workItem from="1534843734555" duration="1662000" />
+      <workItem from="1534901839585" duration="1925000" />
+      <workItem from="1535186704709" duration="816000" />
+      <workItem from="1535257522015" duration="1534000" />
+      <workItem from="1535334473879" duration="4443000" />
+      <workItem from="1535702168437" duration="548000" />
+      <workItem from="1535767359991" duration="613000" />
+      <workItem from="1535810849461" duration="599000" />
+      <workItem from="1535890605232" duration="1433000" />
+      <workItem from="1535961667071" duration="1251000" />
+      <workItem from="1536477242148" duration="5814000" />
+      <workItem from="1536541103210" duration="2527000" />
+      <workItem from="1536637008291" duration="36000" />
+      <workItem from="1536637634861" duration="3230000" />
+      <workItem from="1536662405703" duration="1237000" />
+      <workItem from="1536679788075" duration="2117000" />
+      <workItem from="1536723152070" duration="139000" />
+      <workItem from="1536746941221" duration="612000" />
+      <workItem from="1536767520947" duration="587000" />
+      <workItem from="1536803270612" duration="22000" />
+      <workItem from="1537166392255" duration="3440000" />
+      <workItem from="1537241068426" duration="1192000" />
+      <workItem from="1537358193146" duration="8357000" />
+      <workItem from="1537430049448" duration="56000" />
+      <workItem from="1537769490347" duration="608000" />
+      <workItem from="1537842915407" duration="3709000" />
+      <workItem from="1538908402117" duration="14027000" />
+      <workItem from="1538967601332" duration="2557000" />
+      <workItem from="1538986219772" duration="5632000" />
+      <workItem from="1539006146391" duration="666000" />
+      <workItem from="1539097869279" duration="696000" />
+      <workItem from="1539485443083" duration="118000" />
+      <workItem from="1539656412014" duration="33000" />
+      <workItem from="1539656702790" duration="4247000" />
+      <workItem from="1540263024869" duration="3083000" />
+      <workItem from="1540305957389" duration="479000" />
+      <workItem from="1540629387491" duration="3933000" />
+      <workItem from="1540866836276" duration="4487000" />
+      <workItem from="1540912907908" duration="20000" />
+      <workItem from="1541468270624" duration="10331000" />
+      <workItem from="1541657916413" duration="6434000" />
+      <workItem from="1542077349110" duration="3101000" />
+      <workItem from="1542630829613" duration="550000" />
+      <workItem from="1542797846427" duration="1317000" />
+      <workItem from="1542801352177" duration="24000" />
+      <workItem from="1542801414651" duration="5628000" />
+      <workItem from="1542860514843" duration="4754000" />
+      <workItem from="1542889669557" duration="7455000" />
+      <workItem from="1542940991511" duration="9966000" />
+      <workItem from="1542968643135" duration="1887000" />
+      <workItem from="1542972107237" duration="3661000" />
+      <workItem from="1543131387214" duration="6101000" />
+      <workItem from="1543156275446" duration="573000" />
+      <workItem from="1543236336994" duration="5611000" />
+      <workItem from="1543288257098" duration="2346000" />
+      <workItem from="1543741500336" duration="931000" />
+      <workItem from="1543839728441" duration="3862000" />
+      <workItem from="1544356488833" duration="2672000" />
+      <workItem from="1544448320345" duration="4151000" />
+      <workItem from="1544496812338" duration="1790000" />
+      <workItem from="1545099358055" duration="2266000" />
+      <workItem from="1545130582784" duration="12107000" />
+      <workItem from="1545204712047" duration="4196000" />
+      <workItem from="1545275417577" duration="18135000" />
+      <workItem from="1545351163943" duration="14459000" />
+      <workItem from="1545476090421" duration="8761000" />
+      <workItem from="1545532893058" duration="22227000" />
+      <workItem from="1545576519444" duration="3146000" />
+      <workItem from="1545803659201" duration="5842000" />
+      <workItem from="1545824201280" duration="10630000" />
+      <workItem from="1545893503156" duration="17479000" />
+      <workItem from="1545973090671" duration="32331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="334642000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.24128686" />
+      <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.22855228" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36916548" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3281471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.22252011" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.1266756" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49894738" visible="true" weight="0.25201073" />
+      <window_info id="Structure" order="1" sideWeight="0.5010526" side_tool="true" weight="0.22855228" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27439886" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3281471" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.22252011" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.1266756" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ui/AbstractBattleCanvas.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="a" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/annotation/Author.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-227">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#t2#0;class#Counter#0" expanded="true" />
+            <element signature="method#run#0;class#678:1076" expanded="true" />
+            <element signature="method#t3#0;class#Counter#0" expanded="true" />
+            <element signature="method#run#0;class#1132:1530" expanded="true" />
+            <element signature="method#run#0;class#Counter#0" expanded="true" />
+            <element signature="method#main#0;class#Counter#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/battle/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Board#0;class#Board#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/util/Pictures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/DaWa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hitEvil.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hitJust.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/QiWa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Scorpion.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SiWa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/SanWa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/map.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/LiuWa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Snake.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/Underlings.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/WuWa.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/AbstractBattleCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#AbstractBattleCanvas#0;class#AbstractBattleCanvas#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/battle/Formation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="method#snakeFormation#0;class#Formation#0" expanded="true" />
+            <element signature="method#gooseFormation#0;class#Formation#0" expanded="true" />
+            <element signature="method#matrixFormation#0;class#Formation#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/ThreadGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="52" column="74" selection-start-line="52" selection-start-column="74" selection-end-line="52" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/Shoot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/skill7.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/scene/effect/Effect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+          <folding>
+            <element signature="e#1866#1867#0" expanded="true" />
+            <element signature="e#1920#1921#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/GrandPa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="68" column="70" lean-forward="true" selection-start-line="68" selection-start-column="70" selection-end-line="68" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/ThreadInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="method#shutDown#0;class#ThreadInfo#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/board.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="102" lean-forward="true" selection-start-line="13" selection-start-column="102" selection-end-line="13" selection-end-column="102" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/battle/EvilSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#init#0;class#EvilSide#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="method#updateStatus#0;class#EvilSide#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/monster/Underlings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/monster/Scorpion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="method#Scorpion#0;class#Scorpion#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/monster/Snake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="method#Snake#0;class#Snake#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UIApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createContent#0;class#UIApp#0" expanded="true" />
+            <element signature="method#replaceScene#0;class#UIApp#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/GameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="148" column="76" selection-start-line="148" selection-start-column="76" selection-end-line="148" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#initialize#0;class#GameController#0" expanded="true" />
+            <element signature="method#keyboardEvent#0;class#GameController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/SkillFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setSkillTime#0;class#SkillFrame#0" expanded="true" />
+            <element signature="method#setSkillTime#1;class#SkillFrame#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/DaWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="26" column="74" selection-start-line="26" selection-start-column="74" selection-end-line="26" selection-end-column="74" />
+          <folding>
+            <element signature="method#DaWa#0;class#DaWa#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/LiuWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="method#releaseSkill#0;class#LiuWa#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/ErWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+          <folding>
+            <element signature="method#ErWa#0;class#ErWa#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/QiWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="method#releaseSkill#0;class#QiWa#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/battle/Sides.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="68" column="25" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#initThreads#0;class#Sides#0" expanded="true" />
+            <element signature="method#run#0;class#Sides#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/WuWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/SiWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="method#SiWa#0;class#SiWa#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/calabashBrother/SanWa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+          <folding>
+            <element signature="method#SanWa#0;class#SanWa#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/battle/JustSide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="method#updateStatus#0;class#JustSide#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BattleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#175#0" expanded="true" />
+            <element signature="method#test#0;class#MyTest#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/CalabashBrother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1767#1768#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/GameModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="172" column="20" lean-forward="true" selection-start-line="172" selection-start-column="20" selection-end-line="172" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getInstance#0;class#GameModel#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="74" column="31" lean-forward="true" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#isHitGoal#0;class#MonsterBullet#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/Bullet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="67" column="24" lean-forward="true" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="24" />
+          <folding>
+            <element signature="method#hit#0;class#Bullet#0" expanded="true" />
+            <element signature="method#toEnd#0;class#Bullet#0" expanded="true" />
+            <element signature="e#4760#4761#0" expanded="true" />
+            <element signature="e#4784#4785#0" expanded="true" />
+            <element signature="e#4809#4810#0" expanded="true" />
+            <element signature="e#4833#4834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/logic.creatures.Being">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>logic.creatures.Being</OriginalElement>
+          <nodes>
+            <node x="71.49999999999997" y="0.0">java.lang.FunctionalInterface</node>
+            <node x="222.0" y="81.0">logic.creatures.Skill</node>
+            <node x="100.0" y="81.0">java.lang.Runnable</node>
+            <node x="127.5" y="162.0">logic.creatures.Creature</node>
+            <node x="0.0" y="162.0">logic.creatures.Bullet</node>
+            <node x="0.0" y="81.0">logic.creatures.Being</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+              <point x="-2.8421709430404007E-14" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="logic.creatures.Bullet" target="java.lang.Runnable">
+              <point x="20.0" y="-15.5" />
+              <point x="60.0" y="142.0" />
+              <point x="125.5" y="142.0" />
+              <point x="-25.5" y="15.5" />
+            </edge>
+            <edge source="logic.creatures.Creature" target="java.lang.Runnable">
+              <point x="-1.4210854715202004E-14" y="-15.5" />
+              <point x="25.49999999999997" y="15.5" />
+            </edge>
+            <edge source="logic.creatures.Creature" target="logic.creatures.Skill">
+              <point x="32.66666666666664" y="-15.5" />
+              <point x="209.16666666666663" y="142.0" />
+              <point x="257.5" y="142.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="logic.creatures.Bullet" target="logic.creatures.Being">
+              <point x="-20.0" y="-15.5" />
+              <point x="-20.0" y="15.5" />
+            </edge>
+            <edge source="logic.creatures.Creature" target="logic.creatures.Being">
+              <point x="-32.66666666666667" y="-15.5" />
+              <point x="143.83333333333331" y="132.0" />
+              <point x="60.0" y="132.0" />
+              <point x="20.0" y="15.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-13.5" y="141.0" />
+          <SelectedNodes>
+            <node>logic.creatures.Being</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/creatures/Creature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <element signature="method#Creature#0;class#Creature#0" expanded="true" />
+            <element signature="method#randomMove#0;class#Creature#0" expanded="true" />
+            <element signature="method#run#0;class#Creature#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
