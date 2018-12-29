@@ -6,11 +6,11 @@
 
 - 葫芦娃失败
 
-![](E:\Desktop\java_FinalProject\readme\fail.gif)
+![](readme\fail.gif)
 
 - 葫芦娃胜利
 
-![](E:\Desktop\java_FinalProject\readme\win.gif)
+![](readme\win.gif)
 
 ### 2.游戏机制
 
@@ -56,7 +56,7 @@
 
 ### 1.游戏元素的类图
 
-![](E:\Desktop\java_FinalProject\readme\1.png)
+![](readme\1.png)
 
 - Being类是这个游戏元素的基类（空的）
 
