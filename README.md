@@ -6,11 +6,11 @@
 
 - 葫芦娃失败
 
-![](readme\fail.gif)
+![](readme/fail.gif)
 
 - 葫芦娃胜利
 
-![](readme\win.gif)
+![](readme/win.gif)
 
 ### 2.游戏机制
 
