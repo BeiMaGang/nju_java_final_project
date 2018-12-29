@@ -79,12 +79,7 @@
 - **子弹**和**生物**都实现了**Runnable**接口，多线程编程使得游戏世界能动起来，用synchronized关键字锁定一定的资源，使得不会出现资源冲突等现象。
 
 ### 2.阵营
-
-<<<<<<< HEAD
-![1546060958955](readme/side)
-=======
 ![](readme/side)
->>>>>>> ea45bced498786d6483e1e0c6ad93971958c4d8d
 
 - 游戏战斗分为两方，所以出现了**阵营（Sides）**这个实体，分别派生出**正义方（JustSide）**和**邪恶方（EvilSide）**两个阵营，阵营里面是鼓励师（爷爷和蛇精）和生物群（葫芦娃和蝎子精喽啰），用到了**组合（composition）**这种复用代码的方法。
 
@@ -292,7 +287,7 @@ public class GameModel implements Runnable{
 
 
 
-![1546063216962](E:\Desktop\java_FinalProject\readme\3)
+![](readme/3)
 
 - 整个项目用的是Maven的结构，并编写的Test用例去做测试。
 
