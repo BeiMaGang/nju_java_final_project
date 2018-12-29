@@ -6,11 +6,11 @@
 
 - 葫芦娃失败
 
-![](readme\fail.gif)
+![](readme/fail.gif)
 
 - 葫芦娃胜利
 
-![](readme\win.gif)
+![](readme/win.gif)
 
 ### 2.游戏机制
 
@@ -56,7 +56,7 @@
 
 ### 1.游戏元素的类图
 
-![](readme\1.png)
+![](readme/1.png)
 
 - Being类是这个游戏元素的基类（空的）
 
@@ -80,7 +80,7 @@
 
 ### 2.阵营
 
-![1546060958955](E:\Desktop\java_FinalProject\readme\side)
+![1546060958955](readme/side)
 
 - 游戏战斗分为两方，所以出现了**阵营（Sides）**这个实体，分别派生出**正义方（JustSide）**和**邪恶方（EvilSide）**两个阵营，阵营里面是鼓励师（爷爷和蛇精）和生物群（葫芦娃和蝎子精喽啰），用到了**组合（composition）**这种复用代码的方法。
 
